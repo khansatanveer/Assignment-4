@@ -8,7 +8,5 @@ def main():
     print(numbers)  # This should print the doubled list
 
 
-# There is no need to edit code beyond this point
-
 if __name__ == '__main__':
     main()
